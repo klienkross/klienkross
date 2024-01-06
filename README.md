@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+这里是克莱因克洛斯，虽然我也不知道为什么要写readme但是写写看？算是Git的第一篇编程（
+
+废物大学生，摆了三年那种，这篇的tex(是tex吗？)也是现学的，这下不得不复健了
+
+
+project：
+
+- ML BP神经网络
+- Zero-Shot Learning
