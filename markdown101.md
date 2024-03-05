@@ -1,4 +1,4 @@
-# 这是一个练习文件，你可以随时删除。
+这是一个练习文件，你可以随时删除。
 
 # 标题
 
@@ -91,7 +91,7 @@ B站主页：<https://space.bilibili.com/1260901292>
 + \$ 里面不要加莫名其妙的空格
 + 起始符前带空格，终止符后可以不带
 
-$\hat{a}$ , $\vec{a}$ , $\vec a$ 
+$\hat{a}$ , $\vec{a}$ , $\vec a$ , $\dot{a}$, $\ddot{y}$
 
 ${}_1^2\!X_3^4$：前面有个空位放前置上下标，并在内容前加\!消歧义（失败），上\^下\_
 
@@ -100,13 +100,40 @@ $${}_1^2\!X_3^4$$
 $a^b$, $\left\vert s \right\vert$, $\lVert z \rVert$, $\lvert s \rvert$ （小写是一条大写是两条）
 
 $\times$， $\cdot$， $\pm$，$\ne$ or $\neq$
+分数：
 
-`根式`一图流：
+$$\frac{2}{c + \cfrac{2}{d + \cfrac{2}{4}}} = a$$
+
+根式：
 
 $$\sqrt[3]{\frac{x^3+y^3}{2}}$$
 
-`极限`一图流：
+指数（注意分数形式）：
+
+$$e^{i\pi/2}$$
+
+极限：
 
 $$\lim_{x \to \infty} \frac{1}{n(n+1)}$$
 
+$x'$, $x^\prime$
+
+积分（`\,`大失败， `\rm d`能用）：
+
+$$\int_{-N}^{N} e^x {\rm d}x$$
+
+$$\iint_{D}^{W} \mathrm{d}x \mathrm{d}y$$
+
+$$\iiint_{E}^{V}  \mathrm{d}x \mathrm{d}y \mathrm{d}z$$
+
+$$\oint_{C} x^3 \mathrm{d}x + 4y^2 \mathrm{d}y$$
+
+矩阵：
+
+   $$\begin{bmatrix}
+   x & y \\
+   z & v
+   \end{bmatrix}$$
+
+表格：
 
