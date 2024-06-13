@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 废物大学生，摆了三年那种，这篇的markdown也是现学的，这下不得不复健了
 
 
-project：
-
-- ML BP神经网络
-- Zero-Shot Learning
