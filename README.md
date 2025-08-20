@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - p2：从结构化oc存储库到知识管理系统 | OC-Repositories & Personal-Knowledge-Management
 - p1：自动识别的“扳手”面具 | Auto Recog "Wrench" Mask
-- p0：鸭梨山大动力为0的论文阅读与idea生产 | paper reading(POWERLESS...)
+- p0：鸭梨山大动力为0的论文阅读与idea生产 | paper reading(UNMOTIVATED...)
 
