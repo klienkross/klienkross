@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-这里是克莱因克洛斯，虽然我也不知道为什么要写readme但是写写看？算是Git的第一篇编程（
+**这里是【克莱因克洛斯最近在做什么】面板！**  
+**Here is the [What Kleinkross has been doing lately] panel!**
 
-废物大学生，摆了三年那种，这篇的markdown也是现学的，这下不得不复健了
-
+- p2：从结构化oc存储库到知识管理系统 | OC-Repositories & Personal-Knowledge-Management
+- p1：自动识别的“扳手”面具 | Auto Recog "Wrench" Mask
+- p0：鸭梨山大动力为0的论文阅读与idea生产 | paper reading(POWERLESS...)
 
