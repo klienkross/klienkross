@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 **这里是【克莱因克洛斯最近在做什么】面板！**  
 **Here is the [What Kleinkross has been doing lately] panel!**
 
-- p2：从结构化oc存储库到知识管理系统 | OC-Repositories & Personal-Knowledge-Management
-- p1：自动识别的“扳手”面具 | Auto Recog "Wrench" Mask
-- p0：鸭梨山大动力为0的论文阅读与idea生产 | paper reading(UNMOTIVATED...)
-- p0.5：手机速通论文APP（请支持我！） | app: PaperStealth_LightweightPDFReader（？）
+- p2：自动识别表情的“扳手”面具 | Auto Recog "Wrench" Mask
+- p1：我也不知道p1在搞什么总之三天一个样的CC大师写代码 | Vibe Whatever
+- p0：鸭梨山大动力为0的论文阅读与idea生产 | paper crafting(UNMOTIVATED...)
 
